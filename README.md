@@ -1,9 +1,6 @@
 ### Hi there, I'm Emerson Pereira :man_technologist: 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emersonope&theme=radical&show_icons=true)
-
-
 <!--
 **emersonope/emersonope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
