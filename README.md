@@ -19,7 +19,7 @@ it in order to get the desired output, I realized the importance of learning how
 problems.
 
 
-I completed a fullstack development course, in which I had the opportunity to learn some of the languages listed below:
+I've completed a fullstack development course, in which I had the opportunity to learn some of the languages listed below:
 
 HTML5 | CSS3 | JavaScript | Bootstrap | PHP | MySQL and NoSQL (MongoDB) | ReactJS and React Native | NodeJS | Python
 
