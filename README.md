@@ -28,7 +28,15 @@ lities that programming offers to the future of business and society.
 
 ```
 
-
+<p align=center>
+    <a href="https://github.com/emersonope">
+          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=emersonope&theme=radical&show_icons=true" />
+    </a>
+    <a href="https://github.com/emersonope">
+          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonope&layout=compact&theme=radical&show_icons=true)] (https://github.com/anuraghazra/github-readme-stats)" />
+    </a>
+</p>
+<!--
 <center>
 <table>
   <tr>
@@ -45,6 +53,7 @@ lities that programming offers to the future of business and society.
   </tr>   
 </table>
 </center>
+-->
 
 <!--
 **emersonope/emersonope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
