@@ -28,12 +28,12 @@ lities that programming offers to the future of business and society.
 
 ```
 
-<p align=center>
+<p display="flex" align="center" >
     <a href="https://github.com/emersonope">
-          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=emersonope&theme=radical&show_icons=true" />
+          <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=emersonope&theme=radical&show_icons=true" />
     </a>
     <a href="https://github.com/emersonope">
-          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonope&layout=compact&theme=radical&show_icons=true)] (https://github.com/anuraghazra/github-readme-stats)" />
+          <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonope&layout=compact&theme=radical&show_icons=true)] (https://github.com/anuraghazra/github-readme-stats)" />
     </a>
 </p>
 <!--
