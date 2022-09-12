@@ -31,8 +31,11 @@ lities that programming offers to the future of business and society.
           <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=emersonope&theme=radical&show_icons=true" />
     </a>
     <a href="https://github.com/emersonope">
-          <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonope&layout=compact&theme=radical&show_icons=true)] (https://github.com/anuraghazra/github-readme-stats)" />
+          <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonope&layout=compact&theme=radical&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)" />
     </a>
+  <a>
+    <img [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonope&layout=compact)](https://github.com/anuraghazra/github-readme-stats) />
+  </a>
 </p>
 <!--
 <center>
