@@ -13,9 +13,9 @@
 </p>
 
 ```
-Working with web development since 2021, I have been working with multiple projects which impact more
-than 60 thousand consumers. Always concerned with the User Experience and using data-metrics to reach
-high retention rates.
+Working with web development since 2021, I have been working with multiple projects which impact more than 60 thousand consumers.
+Always concerned with the User Experience and using data-metrics to reach high retention rates.
+
 
 I have experience/knowledge with some programming languages:
 
