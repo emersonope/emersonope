@@ -13,15 +13,13 @@
 </p>
 
 ```
-First and foremost, I believe that coding is the future of business and society. Back when I was a production engineering
-undergraduate, I had my first contact with coding. Ever since writing my first program in C++ at college and manipulating 
-it in order to get the desired output, I realized the importance of learning how to use software to solve practical 
-problems.
+Working with web development since 2021, I have been working with multiple projects which impact more
+than 60 thousand consumers. Always concerned with the User Experience and using data-metrics to reach
+high retention rates.
 
+I have experience/knowledge with some programming languages:
 
-I've completed a fullstack development course, in which I had the opportunity to learn some of the languages listed below:
-
-HTML5 | CSS3 | JavaScript | Bootstrap | PHP | MySQL and NoSQL (MongoDB) | ReactJS and React Native | NodeJS | Python
+HTML5 | CSS3 | JavaScript | TypeScript | MySQL and NoSQL (MongoDB) | PHP | NodeJS | Java
 
 Now, I'm currently refining my skills as a developer in line with my belief of the importance and the endless possibi - 
 lities that programming offers to the future of business and society.
